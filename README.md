@@ -1,37 +1,16 @@
-# Domain Name Service
+# buildspace DNS starter project
 
-## Table of Contents
+### **Welcome 👋**
 
-## Technologies Used
+To get started with this course, clone this repo and follow these commands:
 
-- Hardhat
-- Polygonscan Mumbai
-- Polygon (Mumbai Testnet)
-- Alchemy
+1. Run `npm install` at the root of your directory
+2. Run `npm run start` to start the project
+3. Start coding!
 
-## Notes
+### What is the `.vscode` Folder?
+If you use VSCode to build your app, we included a list of suggested extensions that will help you build this project! Once you open this project in VSCode, you will see a popup asking if you want to download the recommended extensions :).
 
-1. Create an account on Metamask if you do't have one.
-2. Go to [Polygonscan Mumbai](https://mumbai.polygonscan.com/).
-3. Click 'Add Mumbai Network' to add it to your Metamask wallet.
-4. Get some fake MATIC tokens on [Polygon’s faucet system](https://faucet.polygon.technology/) to deploy contract.
-5. Create a new app on Alchemy.
-  
-## Deploy
 
-- Locally
-
-```shell
-npx hardhat scripts/run.js
-```
-
-- Polygon Mumbai Testnet
-
-```shell
-npx hardhat run scripts/deploy.js --network mumbai
-```
-
-  - Copy the contract address after deploying to Mumbai Testnet.  
-    - For my case, it is `0x62D45AA40C4DbBB3AE7D79A6D8cBD80C3722a274`.
-  - Verify the contract deployment on [Mumbai Polygonscan](https://mumbai.polygonscan.com/).
-  - Check the domain minted as NFT on [OpenSea's Testnet](https://testnets.opensea.io/).
+### **Questions?**
+Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/) and link your Discord account so you can get access to helpful channels teaching assistants, and your instructor!
