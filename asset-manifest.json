@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dapp-dragon-domain-service/static/css/main.d4ab769a.css",
+    "main.js": "/dapp-dragon-domain-service/static/js/main.bbfd7f3c.js",
+    "static/media/twitter-logo.svg": "/dapp-dragon-domain-service/static/media/twitter-logo.a8a752547c2913d8bc15e5df109748a6.svg",
+    "static/media/polygonlogo.png": "/dapp-dragon-domain-service/static/media/polygonlogo.6cde40a9b9119621eb2b.png",
+    "index.html": "/dapp-dragon-domain-service/index.html",
+    "main.d4ab769a.css.map": "/dapp-dragon-domain-service/static/css/main.d4ab769a.css.map",
+    "main.bbfd7f3c.js.map": "/dapp-dragon-domain-service/static/js/main.bbfd7f3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4ab769a.css",
+    "static/js/main.bbfd7f3c.js"
+  ]
+}
